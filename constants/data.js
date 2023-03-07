@@ -8,7 +8,7 @@ const userData = {
   projects: [
     {
       title: "StandUp",
-      link: "https://github.com/MuseDevInc/muse-app",
+      link: "https://github.com/cdizon239/stand-app",
       imgUrl: "/standup.png",
     },
     {
@@ -31,10 +31,9 @@ const userData = {
     title:
       "I am a software engineer, researcher, and designer who is excited by the iterative process of learning and excited about creating scalable digital solutions. My product management experience inspires my design thinking and programming to create human-centered products in a collaborative environment. My background as a researcher and data analyst help me understand problems, identify opportunities, and draw data-driven insights.",
     description: [
-      `Programming Languages:`,
-      `Frameworks/Libraries:`,
-      `Databases:`,
-      `Tools:`
+      `Full-stack development: Python, Flask, PostgreSQL, TypeScript, React, NextJS, Javascript, HTML, CSS, Node, Express, Mongoose, MongoDB`,
+      `+ Experience with AWS s3, CircleCI, Datadog, Cypress, pytest, msw, react-testing-library, git + other tools and frontend & backend libraries for development and testing`,
+      `BI and Data Analytics: Python, SQL, Snowflake, Looker, Datastudio, Jupyter Notebook, HEAP analytics`,
     ],
     currentProject: "Tailwind Master Kit",
     currentProjectUrl: "https://tailwindmasterkit.com",
