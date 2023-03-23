@@ -57,7 +57,7 @@ const userData = {
     {
       title: "Software Engineer",
       company: "Indigo Ag",
-      year: "2022",
+      year: "2022-2023",
       companyLink: "https://www.indigoag.com/",
       desc: "May 2022 - January 2023: Full-stack engineer on the team responsible for features that improve program support and retention. I collaborated with Product Managers and other Engineers to design, build, test, and deploy backend & frontend services",
     },
