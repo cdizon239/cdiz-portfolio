@@ -10,21 +10,29 @@ const userData = {
       title: "StandUp",
       link: "https://github.com/cdizon239/stand-app",
       imgUrl: "/standup.png",
+      description:
+        "A full-stack app to facilitate standups through a kanban board and a video-conferencing feature",
     },
     {
       title: "TripBucket",
       link: "https://github.com/cdizon239/trip-bucket",
       imgUrl: "/tbucket.png",
+      description:
+        "A full-stack travel application leveraging the Mapbox APIs for an interactive mapping experience, turn-by-turn navigation, and feeding data into the RESTful API to allow users to create, edit, delete trips and places with minimal data entry",
     },
     {
       title: "Muse",
       link: "https://github.com/MuseDevInc/muse-app",
       imgUrl: "/muse.png",
+      description:
+        "A full-stack social networking platform centered on sharing music preferences",
     },
     {
       title: "Tower of Hanoi",
       link: "https://cdizon239.github.io/tower-of-hanoi/game.html",
       imgUrl: "/toh.png",
+      description:
+        "An HTML5 virtual rendition of the puzzle tower of hanoi that allows users to play, keep track of time and scores, and see the animated iterative solution for three or more discs",
     },
   ],
   about: {
@@ -54,9 +62,9 @@ const userData = {
       desc: "May 2022 - January 2023: Full-stack engineer on the team responsible for features that improve program support and retention. I collaborated with Product Managers and other Engineers to design, build, test, and deploy backend & frontend services",
     },
     {
-      title: "Jr. Product Manager",
+      title: "Product Manager",
       company: "Indigo Ag",
-      year: "2021",
+      year: "2021-2022",
       companyLink: "https://www.indigoag.com/",
       desc: `January 2021 - May 2022: Develop low-code prototypes, conduct user research, define and analyze product metrics, and work with engineers to build the Carbon by Indigo software.`,
     },
