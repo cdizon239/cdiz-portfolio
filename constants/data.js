@@ -41,6 +41,13 @@ const userData = {
   experience: [
     {
       title: "Software Engineer",
+      company: "Osmo AI",
+      year: "2023",
+      companyLink: "https://www.indigoag.com/",
+      desc: "March 2023 - Present",
+    },
+    {
+      title: "Software Engineer",
       company: "Indigo Ag",
       year: "2022",
       companyLink: "https://www.indigoag.com/",
