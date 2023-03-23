@@ -32,19 +32,26 @@ const userData = {
       "I am a software engineer, researcher, and designer who is excited by the iterative process of learning and excited about creating scalable digital solutions. My product management experience inspires my design thinking and programming to create human-centered products in a collaborative environment. My background as a researcher and data analyst help me understand problems, identify opportunities, and draw data-driven insights.",
     description: [
       `Full-stack development: Python, Flask, PostgreSQL, TypeScript, React, NextJS, Javascript, HTML, CSS, Node, Express, Mongoose, MongoDB`,
-      `+ Experience with AWS s3, CircleCI, Datadog, Cypress, pytest, msw, react-testing-library, git + other tools and frontend & backend libraries for development and testing`,
-      `BI and Data Analytics: Python, SQL, Snowflake, Looker, Datastudio, Jupyter Notebook, HEAP analytics`,
+      `Other tools used  for development and testing: GoogleCloudPlatform, CircleCI, Datadog, Cypress, pytest, msw, react-testing-library, AWS s3, git`,
+      `Data analytics & product management: Atlassian (Jira and Confluence), Figma, Python, SQL, Snowflake, Looker, Google Datastudio, Jupyter Notebook, HEAP analytics, Logrocket`,
     ],
     currentProject: "Tailwind Master Kit",
     currentProjectUrl: "https://tailwindmasterkit.com",
   },
   experience: [
     {
+      title: "Software Engineer",
+      company: "Indigo Ag",
+      year: "2022",
+      companyLink: "https://www.indigoag.com/",
+      desc: "May 2022 - January 2023: Full-stack engineer on the team responsible for features that improve program support and retention. I collaborated with Product Managers and other Engineers to design, build, test, and deploy backend & frontend services",
+    },
+    {
       title: "Jr. Product Manager",
       company: "Indigo Ag",
       year: "2021",
       companyLink: "https://www.indigoag.com/",
-      desc: "January 2021 - Present: Develop low-code prototypes, conduct user research, define and analyze product metrics, and work with engineers to build the Carbon by Indigo software.",
+      desc: `January 2021 - May 2022: Develop low-code prototypes, conduct user research, define and analyze product metrics, and work with engineers to build the Carbon by Indigo software.`,
     },
     {
       title: "Data Insights Associate II",
@@ -58,10 +65,10 @@ const userData = {
       company: "Northeastern University",
       year: "2019",
       companyLink: "https://www.northeastern.edu/",
-      desc: "August 2015 - December 2019: Studies in Geoscience and Physics.",
+      desc: "August 2015 - December 2019: Geoscience and Physics",
     },
     {
-      title: "Systems Innovation Co-op",
+      title: "Strategy and Consulting Intern",
       company: "Indigo Ag",
       year: "2019",
       companyLink: "https://www.indigoag.com/",
